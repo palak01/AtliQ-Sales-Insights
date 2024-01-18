@@ -1,4 +1,4 @@
-# AtliQ-Sales-Insights
+# AtliQ-Sales-Insights - Power BI| SQL
 Link to dashboard: http://tinyurl.com/4vyjvfrk
 
 # Business Overview:
